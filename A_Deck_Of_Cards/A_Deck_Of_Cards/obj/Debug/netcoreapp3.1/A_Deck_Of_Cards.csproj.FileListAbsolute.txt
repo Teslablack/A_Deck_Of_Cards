@@ -1,0 +1,13 @@
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.csprojAssemblyReference.cache
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.AssemblyInfoInputs.cache
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.AssemblyInfo.cs
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.csproj.CoreCompileInputs.cache
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.exe
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.deps.json
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.runtimeconfig.json
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.runtimeconfig.dev.json
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.dll
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\bin\Debug\netcoreapp3.1\A_Deck_Of_Cards.pdb
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.dll
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.pdb
+C:\Users\ptpar\source\repos\A_Deck_Of_Cards\A_Deck_Of_Cards\obj\Debug\netcoreapp3.1\A_Deck_Of_Cards.genruntimeconfig.cache
